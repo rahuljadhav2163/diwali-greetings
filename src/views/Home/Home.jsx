@@ -93,6 +93,7 @@ function Home() {
              <option value='1'>Theme 1</option>
              <option value='2'>Theme 2</option>
              <option value='3'>Theme 3</option>
+             <option value='4'>Theme 4</option>
         </select>
      </div>
 
